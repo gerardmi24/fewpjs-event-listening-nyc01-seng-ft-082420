@@ -5,4 +5,3 @@ input.addEventListener('click', function(event) {
 });
 }
 
-}
